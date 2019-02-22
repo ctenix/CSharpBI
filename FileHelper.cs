@@ -1,6 +1,6 @@
 using System;
 using System.IO;
-namespace Ch06
+namespace CSharpBI
 {
     public class FileHelper
     {
