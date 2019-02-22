@@ -76,4 +76,5 @@ ModelManifest.xml
 #Backup file  
 *.bak
 
-
+# vscode file
+.vscode/
