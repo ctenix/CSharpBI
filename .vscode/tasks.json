@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/myApp.csproj"
+                "${workspaceFolder}/CSharpBI.csproj"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/myApp.csproj"
+                "${workspaceFolder}/CSharpBI.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

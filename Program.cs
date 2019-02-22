@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Ch06
+namespace CSharpBI
 {
     class Program
     {
